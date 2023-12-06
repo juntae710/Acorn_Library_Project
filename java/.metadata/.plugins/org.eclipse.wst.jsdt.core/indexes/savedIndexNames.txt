@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+C:\Users\hbi\Desktop\prj2\Acorn_Library_Project\3Á¶\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1176059074.index
